@@ -1,0 +1,2 @@
+This file is created using git bash.
+It's simple txt file which is generated using command notepad SimpleFile.txt
